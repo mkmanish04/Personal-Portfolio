@@ -1,1 +1,1 @@
-# This my persoinal portfolio website.
+# This is my persoinal portfolio website.
